@@ -1,0 +1,19 @@
+//Parameters for later use
+:P Z_Slab1_Thick 3*cm
+
+//Rotation Matrix
+:ROTM R00 0. 0. 0.
+:ROTM R01 90. 0. 0.
+:ROTM R02 0. 0. 180.
+
+// Define volumes and place them
+:VOLU world BOX 50.*cm 50.*cm 50.*cm G4_AIR
+
+:VOLU "Slab1" BOX  19.05*cm 19.05*cm $Z_Slab1_Thick G4_Al
+:PLACE "Slab1" 1 world R00 0.*cm 0.*cm 0.*cm
+
+:VOLU "Source" TUBS 0.*cm 1.815*cm 19.05*cm 0. 360. G4_AIR
+:PLACE "Source" 2 world R01 0.*cm 0.*cm -$Z_Slab1_Thick-10*cm
+
+:VOLU "Detector" BOX  2.5*cm 2.5*cm 2.5*cm G4_SODIUM_IODIDE
+:PLACE "Detector" 3 world R02 0.*cm 0.*cm $Z_Slab1_Thick+10*cm

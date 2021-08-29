@@ -1,0 +1,19 @@
+# Sets some default verbose
+#/control/verbose 1
+#/run/verbose 1
+/gps/verbose 1
+#Source
+/gps/particle gamma
+/gps/pos/type Volume
+/gps/pos/confine Source
+/gps/pos/shape Cylinder
+/gps/pos/halfz 19.05 cm
+/gps/pos/radius 1.815 cm
+/gps/pos/centre 0. 0. -14.45 cm
+#Angular distribution
+/gps/ang/type planar
+/gps/direction 0. 0. 1
+#
+#Energy distribution
+/gps/ene/type Mono
+#/gps/ene/mono 1 MeV

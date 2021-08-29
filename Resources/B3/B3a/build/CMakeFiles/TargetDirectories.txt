@@ -1,0 +1,8 @@
+/home/rasheeqqua/Downloads/Compressed/Geant4/install/share/Geant4-10.6.3/examples/basic/B3/B3a/build/CMakeFiles/install/local.dir
+/home/rasheeqqua/Downloads/Compressed/Geant4/install/share/Geant4-10.6.3/examples/basic/B3/B3a/build/CMakeFiles/edit_cache.dir
+/home/rasheeqqua/Downloads/Compressed/Geant4/install/share/Geant4-10.6.3/examples/basic/B3/B3a/build/CMakeFiles/install.dir
+/home/rasheeqqua/Downloads/Compressed/Geant4/install/share/Geant4-10.6.3/examples/basic/B3/B3a/build/CMakeFiles/list_install_components.dir
+/home/rasheeqqua/Downloads/Compressed/Geant4/install/share/Geant4-10.6.3/examples/basic/B3/B3a/build/CMakeFiles/rebuild_cache.dir
+/home/rasheeqqua/Downloads/Compressed/Geant4/install/share/Geant4-10.6.3/examples/basic/B3/B3a/build/CMakeFiles/B3a.dir
+/home/rasheeqqua/Downloads/Compressed/Geant4/install/share/Geant4-10.6.3/examples/basic/B3/B3a/build/CMakeFiles/install/strip.dir
+/home/rasheeqqua/Downloads/Compressed/Geant4/install/share/Geant4-10.6.3/examples/basic/B3/B3a/build/CMakeFiles/exampleB3a.dir
