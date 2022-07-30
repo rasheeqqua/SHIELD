@@ -1,2 +1,3 @@
 # SHIELD
-SHIELD is a simulation software written on GEANT4 toolkit. The shielding abilities of a multi-layer cask has been tested in using this software.
+
+#### SHIELD is a simulation software written on GEANT4 libraries. The shielding abilities of a conceptual multi-layered cask has been tested using this software.
